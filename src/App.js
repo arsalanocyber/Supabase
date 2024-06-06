@@ -5,8 +5,8 @@ import Signup from './pages/Signup';
 import Success from './pages/Success';
 import Home from './pages/Home';
 import CreateProduct from './pages/CreateProduct';
-function App() {
-  return (
+function App( {
+  return 
     <div className="App">
       <Router>
         <Routes>
